@@ -1,0 +1,16 @@
+session_id,timestamp,gpu_memory_used
+no-cache,0,18
+no-cache,1,18
+no-cache,2,515
+no-cache,3,515
+no-cache,4,515
+no-cache,5,515
+no-cache,6,515
+no-cache,7,515
+no-cache,8,771
+no-cache,9,771
+no-cache,10,771
+cache,0,18
+cache,1,259
+cache,2,515
+cache,3,771
